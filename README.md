@@ -5,6 +5,15 @@ A web-based application developed to manage pet grooming services and maintain p
 The system allows pet owners to book grooming appointments, manage pet profiles, and store veterinary health records. It also provides an administrative dashboard for managing services, appointments, and customer interactions.
 
 ---
+## Live Demo
+
+This project demonstrates a web-based system for managing pet grooming services and health records.
+
+Run locally using XAMPP:
+
+http://localhost/pet_grooming
+
+
 
 ## Technologies Used
 
