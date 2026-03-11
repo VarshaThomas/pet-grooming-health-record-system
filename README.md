@@ -6,6 +6,15 @@ The system allows pet owners to book grooming appointments, manage pet profiles,
 
 ---
 ## Live Demo
+## Installation
+
+1. Install XAMPP
+2. Copy the project folder to `htdocs`
+3. Import the database file `pet_grooming_db.sql` using phpMyAdmin
+4. Start Apache and MySQL
+5. Open:
+
+http://localhost/pet_grooming
 
 This project demonstrates a web-based system for managing pet grooming services and health records.
 
