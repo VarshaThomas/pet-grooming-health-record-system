@@ -1,22 +1,46 @@
 # Pet Grooming & Health Record Management System
 
-A web-based system developed to manage pet grooming services and maintain pet health records.
+A web-based application developed to manage pet grooming services and maintain pet health records.
 
-## Technologies
-PHP
-MySQL
-HTML
-CSS
+The system allows pet owners to book grooming appointments, manage pet profiles, and store veterinary health records. It also provides an administrative dashboard for managing services, appointments, and customer interactions.
+
+---
+
+## Technologies Used
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- XAMPP (Development Environment)
+
+---
 
 ## Features
-- Pet registration
-- Grooming appointment booking
-- Health record storage
-- Admin dashboard
-- Service management
 
-## Purpose
-Developed as part of MCA academic coursework to demonstrate database-driven web application development.
+• Pet registration and profile management  
+• Grooming appointment booking system  
+• Pet health record tracking  
+• Admin dashboard for service management  
+• Staff and groomer management  
+• Payment and invoice management  
+• Appointment cancellation and rescheduling  
 
-## Author
-Varsha Thomas
+---
+
+## System Modules
+
+User Module  
+Admin Module  
+Groomer Management  
+Vet Health Records  
+Appointment Scheduling  
+Billing and Payment History  
+
+---
+
+## Database
+
+Database file is included:
