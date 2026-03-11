@@ -41,6 +41,14 @@ Billing and Payment History
 
 ---
 
-## Database
+## Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+
+![Booking Page](screenshots/booking_page.png)
+
+![Admin Panel](screenshots/admin_panel.png)
+
+![Pet Profile](screenshots/pet_profile.png)
 
 Database file is included:
