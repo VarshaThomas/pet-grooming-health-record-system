@@ -60,4 +60,11 @@ Billing and Payment History
 
 ![Pet Profile](screenshots/pet_profile.png)
 
+
+
+
+## System Architecture
+
+User → Web Interface → PHP Backend → MySQL Database
+
 Database file is included:
